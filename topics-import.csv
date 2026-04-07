@@ -1,0 +1,21 @@
+topic,type,frequency,category,language,status
+"Tutorial programação",article,daily,"Programação",pt_BR,active
+"Aprender a programar",tutorial,daily,"Programação",pt_BR,active
+"Codificação para iniciantes",tutorial,daily,"Programação",pt_BR,active
+"Como programar do zero",tutorial,daily,"Programação",pt_BR,active
+"Introdução à programação",article,daily,"Programação",pt_BR,active
+"Programming tutorial",tutorial,daily,"Programming",en_US,active
+"Coding for beginners",tutorial,daily,"Programming",en_US,active
+"How to code",tutorial,daily,"Programming",en_US,active
+"Beginner programming guide",article,daily,"Programming",en_US,active
+"Programação passo a passo",tutorial,daily,"Programação",pt_BR,active
+"Tutorial Python",tutorial,daily,"Python",pt_BR,active
+"Aprender Python grátis",tutorial,daily,"Python",pt_BR,active
+"Programação em Java",article,daily,"Java",pt_BR,active
+"Tutorial JavaScript",tutorial,daily,"JavaScript",pt_BR,active
+"Codificação em C++",tutorial,daily,"C++",pt_BR,active
+"Python tutorial for beginners",tutorial,daily,"Python",en_US,active
+"Java programming tutorial",tutorial,daily,"Java",en_US,active
+"JavaScript coding guide",article,daily,"JavaScript",en_US,active
+"C++ tutorial",tutorial,daily,"C++",en_US,active
+"Aprender Java do zero",tutorial,daily,"Java",pt_BR,active
